@@ -115,3 +115,22 @@ form label, form p{
 .checkbox{
     margin: 25px 0;
 }
+
+.boton-enviar{
+    width: 35%;
+    padding: 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background: #085de5;
+    border-radius: 20px;
+    border: none;
+    transition: 1.5s all;
+    cursor: pointer;
+}
+
+.boton-enviar:hover{
+    background: #02183c;
+    transform: scale(1.1);
+    
+}
